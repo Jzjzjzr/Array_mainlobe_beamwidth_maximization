@@ -4,11 +4,11 @@ This repository contains the code implementation, array excitation and full-wave
 
 Link to the manuscript:
 ## Code
-The MATLAB source code of the proposed algorithm(Algorithm 1) is available in the folder `/Code`. To facilitate result reproduction, complete implementations for generating the results in Fig. 4 and Fig. 6 of the manuscript are provided.
+The MATLAB source code of the proposed algorithm (Algorithm 1) is available in the folder `/Code`. To facilitate result reproduction, complete implementations for generating the results in Fig. 4 and Fig. 6 of the manuscript are provided.
   
 Specifically, the files named `Fig4_a.m` $\sim$ `Fig4_d.m` and `Fig6_a.m` $\sim$ `Fig6_d.m` are main scripts that configure the array parameters and call the core function `proposed_algorithm.m`, which implements the proposed algorithm described in the manuscript. The MAT file `aEphi_01degree.mat` contains the active element pattern (AEP) for the full-wave simulations. 
 
-To reproduce the results in Fig. 4, place corresponding files `Fig4_a.m` $\sim$ `Fig4_d.m` and `proposed_algorithm.m` in the same directory and run the script. For Fig. 6, all three types of files including `Fig6_a.m` $\sim$ `Fig6_d.m`, `proposed_algorithm.m` and `aEphi_01degree.mat` should be present in the same directory before execution. 
+To reproduce the results in Fig. 4, place corresponding files `Fig4_a.m` $\sim$ `Fig4_d.m` and `proposed_algorithm.m` in the same directory and run the main script. For Fig. 6, all three types of files including `Fig6_a.m` $\sim$ `Fig6_d.m`, `proposed_algorithm.m` and `aEphi_01degree.mat` should be present in the same directory before execution. 
 ## Relevant Data
 The array excitation associated with figures and tables in the manuscript is provided in the directory `/Data/Array_excitation`. The excitation is saved in individual Excel files, categorized by chart number and legend label. For example, the file located in `/Data/Array_excitation/Fig.4/SBPS_11.xlsx` records the array excitation of the algorithm $`\text{SBPS}_{11}`$ plotted in Fig. 4 for different scenarios.
 
