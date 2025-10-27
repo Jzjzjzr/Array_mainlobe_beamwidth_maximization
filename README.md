@@ -4,7 +4,7 @@ This repository contains the code implementation, array excitation and full-wave
 
 Link to the manuscript:
 ## Code
-The MATLAB source code of the proposed algorithm (Algorithm 1) is available in the folder `/Code`. To facilitate result reproduction, complete implementations for generating the results in Fig. 4 and Fig. 6 of the manuscript are provided.
+The MATLAB source code for the proposed algorithm (Algorithm 1) is available in the folder `/Code`. To facilitate result reproduction, complete implementations for generating the results in Fig. 4 and Fig. 6 of the manuscript are provided.
   
 Specifically, the files named `Fig4_a.m` $\sim$ `Fig4_d.m` and `Fig6_a.m` $\sim$ `Fig6_d.m` are main scripts that configure the array parameters and call the core function `proposed_algorithm.m`, which implements the proposed algorithm described in the manuscript. The MAT file `aEphi_01degree.mat` contains the active element pattern (AEP) for the full-wave simulations. 
 
