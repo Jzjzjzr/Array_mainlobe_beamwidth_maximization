@@ -5,8 +5,8 @@ This repository contains a code implementation and array excitation associated w
 Link to the manuscript:
 ## Code
 The MATLAB source code of the proposed algorithm(Algorithm 1) is available in the folder `/Code`. To facilitate result reproduction, complete implementations for generating the results in Fig. 4 and Fig. 6 of the manuscript are provided.
-
-Specifically, 
+  
+Specifically, the files named `Fig4_a.m`$\sim$`Fig4_d.m` and files such as the file `proposed_algorithm.m` contains the files named like `Fig4_a.m`$\sim$ `Fig4_d.m`, `Fig6_a.m` contain the implementation code for the results presented in Fig. 4 and Fig. 6, respectively.
 ## Relevant Data
 The array excitation associated with figures and tables of the manuscript is provided in the directory `/Data/Array_excitation`. The excitation is saved in individual Excel files, categorized by chart number and legend label. For example, the file located in `/Data/Array_excitation/Fig.4/SBPS_11.xlsx` records the array excitation of the algorithm $`\text{SBPS}_{11}`$ plotted in Fig. 4 for different scenarios.
 
