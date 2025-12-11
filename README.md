@@ -16,14 +16,14 @@ The array excitation associated with figures and tables in the manuscript is pro
 
 The supporting figures and tables for performance discussion of SLL, scanning capability, and scalability with multiple array sizes in Section IV-D of the manuscript are available in the directory `/Supplementary_Materials/Additional discussion`. A detailed analysis of these data and figures can be found in both the manuscript and the supplementary document, `Additional discussion.pdf`. For visual clarity, figures and tables are presented below:
 
-![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Fig_R1.png)
-
-![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Fig_R2.png)
-
 ![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Table_R1.png)
 
 ![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Table_R2.png)
 
+![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Fig_R1.png)
+
 ![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Table_R3.png)
+
+![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Fig_R2.png)
 
 ![image](https://github.com/Jzjzjzr/Array_mainlobe_beamwidth_maximization/blob/main/Supplementary_Materials/Additional%20discussion/Table_R4.png)
