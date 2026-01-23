@@ -1,8 +1,7 @@
 # Array_mainlobe_beamwidth_maximization
 ## Introduction
-This repository contains the code implementation, the full-wave simulation model specifications, array excitation, and the additional discussion materials associated with the manuscript "An Array Mainlobe Beamwidth Maximization Method with Desired Minimum Mainlobe Power Gain via Relaxation Optimization".  
+This repository contains the code implementation, the full-wave simulation model specifications, array excitation, and the additional discussion materials associated with the Communication [An Array Mainlobe Beamwidth Maximization Method with Desired Minimum Mainlobe Power Gain via Relaxation Optimization](https://ieeexplore.ieee.org/document/11358851).  
 
-Link to the manuscript:
 ## Code
 The MATLAB code for the proposed algorithm (Algorithm 1) is available in the folder `/Supplementary_Materials/Code`. To facilitate result reproduction, complete implementations of the proposed algorithm for its corresponding results in Fig. 4 and Fig. 6 of the manuscript are provided as examples. 
   
